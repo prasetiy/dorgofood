@@ -17,7 +17,7 @@ function request(
     $header[] = "X-UniqueId: ".time()."57".mt_rand(1000,9999);
     $header[] = "Connection: keep-alive";
     $header[] = "X-User-Locale: id_ID";
-    $header[] = "X-Location: -6.913010,107.609605"; //Bandung
+    $header[] = "X-Location: -7.585418,110.832258"; //Bandung
     // "X-Location: 3.5938684,98.6646808"; //Location: Medan
     $header[] = "X-Location-Accuracy: 3.0";
 
