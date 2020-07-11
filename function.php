@@ -1,6 +1,6 @@
 <?php
 
-function1 request(
+function request(
     $url, 
     $token = null, 
     $data = null, 
